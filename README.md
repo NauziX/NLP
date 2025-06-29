@@ -38,7 +38,7 @@ Proyecto de **NLP** que procesa el corpus *Amazon Video\_Games\_5* (≈ 230 
 | Modelo                 | Vectorizador  | F1‑macro (TEST) | Comentario breve                           |
 | ---------------------- | ------------- | --------------- | ------------------------------------------ |
 | LogReg                 | Bow (1‑2 g)   | **0.805**       | Probabilidades útiles para calibrar umbral |
-| LinearSVC              | Bow (1‑2 g)   | **0.77**        | Mejora recall clase minoritaria            |
+| LinearSVC              | Bow (1‑2 g)   | **0.77**        | Con Posible mejora            |
 | **TF‑IDF + LinearSVC** | TF‑IDF (60 k) | **0.808**       | Mejor CV, regularización *C = 0.5*         |
 
 ---
