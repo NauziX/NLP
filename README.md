@@ -8,8 +8,8 @@ Proyecto de **NLP** que procesa el corpus *Amazon Video\_Games\_5* (≈ 230 
 
 | Carpeta / archivo          | Descripción                                                             |
 | -------------------------- | ----------------------------------------------------------------------- |
-| `notebooks/EDA.ipynb`      | Exploración de datos, limpieza inicial, visualizaciones                 |
-| `notebooks/PROCE.ipynb` | Preprocesado, bag‑of‑words, entrenamiento y evaluación                  |
+| `EDA.ipynb`                | Exploración de datos, limpieza inicial, visualizaciones                 |
+| `PROCE.ipynb`              | Preprocesado, bag‑of‑words, entrenamiento y evaluación                  |
 | `Video_Games_5.json`       | JSON original                                                           |
 
 ---
