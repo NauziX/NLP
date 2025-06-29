@@ -6,7 +6,7 @@ Proyecto de **NLP** que procesa el corpus *Amazon Video\_Games\_5* (≈ 230 
 
 ## Estructura del repositorio
 
-| Carpeta / archivo          | Descripción                                                             |
+| Archivo          | Descripción                                                             |
 | -------------------------- | ----------------------------------------------------------------------- |
 | `EDA.ipynb`                | Exploración de datos, limpieza inicial, visualizaciones                 |
 | `PROCE.ipynb`              | Preprocesado, bag‑of‑words, entrenamiento y evaluación                  |
