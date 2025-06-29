@@ -23,7 +23,7 @@ Proyecto de **NLP** que procesa el corpus *Amazon Video\_Games\_5* (≈ 230 
    - Minúsculas, expansión de contracciones, eliminación de signos, normalización ASCII.
    - Lematizado con *spaCy* y exclusión de *stop‑words* (conservando "no / not").
 3. **Vectorización**
-   - `CountVectorizer` uni‑ y bi‑gramas, `min_df=5`, `max_df=0.80`.
+   - `CountVectorizer` uni‑ y bi‑gramas,
 4. **Entrenamiento & Test**
    - Modelos: Regresión Logística, SVM lineal, LinearSVC + tubería TF‑IDF.
 5. **Búsqueda de hiper‑parámetros**
